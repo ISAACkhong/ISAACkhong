@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div align="left">
     <h3> 👨‍💻 About Me: </h3>
-    <h4> I am a 13 year old coder 🖥️ from Hwa Chong Institution, Singapore 🇸🇬. </h5>
-    <p>👉 💻 I do Python, C++ (for competitive programming for NOI Singapore 🏆) and Robotics 🔋</p>
-    <p>👉 🌱 I'm working on learning basic web development using HTML, CSS and JavaScript 💻 , as well as learning how to build discord bots.</p>
-    <p>👉 ⚡️ In my free time, I like to create my own projects using Python 📱💻 and work on competitive programming problems on codebreaker.xyz (username isaackhong) 🧩 </p>
-    <p>👉 🔋 I also like to game sometimes🎮 </p>
+    <h4> I am a 14 year old coder 🖥️ from Hwa Chong Institution, Singapore 🇸🇬. </h5>
+    <p>👉 💻 I do mainly Python and work with APIs, as well as front-end development (using HTML or React) and Robotics 🔋</p>
+    <p>👉 🌱 I'm working on using more APIs as well as more ways for front-end development.</p>
+    <p>👉 ⚡️ In my free time, I like to create my own projects using Python 📱💻 and work on different websites </p>
+    <p>👉 🔋 I also like to game sometimes🎮 or play football ⚽️ </p>
     <p>👉 📫 Contact me by email 📧: isaackhongjw@gmail.com</p>
     
     
@@ -53,4 +53,3 @@ Here are some ideas to get you started:
   <p> codebreaker.xyz : https://codebreaker.xyz/profile/isaackhong </p>
   <p> Twitter : https://twitter.com/IsaacKhong3 </p>
   <p> Replit : https://replit.com/@IsaacKhong </p>
-  <p> Website : https://bit.ly/isaac-port </p>
