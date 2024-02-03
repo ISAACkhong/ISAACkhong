@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://twitter.com/IsaacKhong3">
-      <img source="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <a href="https://www.instagram.com/_ik.10_/">
+      <img source="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png)" alt="Instagram" />
     </a>
   </div>
   <div id="headingText">
@@ -53,3 +53,4 @@ Here are some ideas to get you started:
   <p> codebreaker.xyz : https://codebreaker.xyz/profile/isaackhong </p>
   <p> Twitter : https://twitter.com/IsaacKhong3 </p>
   <p> Replit : https://replit.com/@IsaacKhong </p>
+  <p> Instagram: https://www.instagram.com/_ik.10_/ </p>
